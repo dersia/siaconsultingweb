@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
-baseurl = "localhost:1313"
+baseurl = "http://demo.themefisher.com/vex-hugo/"
 title = "Vex | hugo landing page template"
-theme = "vex"
+theme = "vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
@@ -43,21 +43,31 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "Services"
-pre = "#"
-URL = "service"
+name = "Products"
+URL = "products"
 weight = 2
 
 [[menu.main]]
-name = "About us"
-pre = "#"
-URL = "about"
+name = "Blog"
+URL = "blog"
 weight = 3
+
+[[menu.main]]
+name = "Review"
+pre = "#"
+URL = "testimonial"
+weight = 4
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 5
+
+# footer menu
+[[menu.footer]]
+name = "Blog"
+URL = "blog"
+weight = 1
 
 [[menu.footer]]
 name = "Contact"
@@ -111,11 +121,11 @@ weight = 1
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 
-################################### German language #####################################
-[Languages.de]
-languageName = "De"
-languageCode = "de-de"
-contentDir = "content/german"
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
 weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
