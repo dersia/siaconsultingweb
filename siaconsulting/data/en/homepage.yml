@@ -1,0 +1,126 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "WE ARE SIA-CONSULTING."
+  description: "we help you craft stunning digital experiences."
+  content : "Sia Consulting is your digital expert to support you generating a digital environment on a professional level to simplify your daily business focusing on accessibility, data security and quality management."
+  image : "images/watch.png"
+  button:
+   enable : true
+   label : "Get in touch"
+   link : "contact"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Our Core Services"
+  image : "images/watch-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Cloud Migration"
+    icon : "tf-ion-ios-cloud-outline"
+    content : "developing the right cloud structure for your enterprise and imigrate all your sensitive data into a secure and modern digital environment"
+    
+    # feature item loop
+  - title : "IT Security"
+    icon : "tf-ion-ios-locked-outline"
+    content : "implementing the best it-security for your individual needs including the actual GDPR provision (DSGVO) and any other actual security topics"
+    
+    # feature item loop
+  - title : "Workshops"
+    icon : "tf-chat"
+    content : "teaching you and your it team all the knowledge to become an expert in the new generated fields of cloud management and any other software creation "
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Software Development "
+    icon : "tf-mobile"
+    content : "creating event driven architecture which displays software systems better than ever imagined with the use of modern methods as event sourcing and event storming "
+
+    # feature item loop
+  - title : "Software Architecture "
+    icon : " tf-gears"
+    content : "creating event driven architecture which displays software systems better than ever imagined with the use of modern methods as event sourcing and event storming"
+
+    # feature item loop
+  - title : "Coaching"
+    icon : "tf-profile-male"
+    content : "teaching you and your it team all the knowledge to become an expert in the new generated fields of cloud management and any other software creation"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/team.jpg"
+  title : "More than just developers"
+  content : "Sia Consulting supports your it department with coachings and workshops to enable everybody with the best knowledge overtaking the new changes Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
+
+
+############################# About Product #######################
+about_product:
+  enable : true
+  title : "About us"
+  items:
+    # about product item loop
+    - image : "images/showcase/showcase-4.png"
+      title : "Event driven and up-to-date"
+      content : "sia-consulting is a creative cloud consulting agency. we are composed of creative and experienced cloud developers and consultants. 
+
+We focus on being always up-to-date of current affairs to garantee the best service possible using event driven methods.
+"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - image : "images/showcase/showcase-3.png"
+      title : "New Work made in Germany"
+      content : "We always start with requirement govering which is the basis of all our collaborations and focus on your individual needs keeping always the it-security in mind. According to the ‚New Work‘ approach we work remotely, with experts all around the world offering a unique spirit of client focused development.   "
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Products ########################
+products:
+  enable : true
+  title : "Our Technologies"
+
+
+################################## Subscription ###################
+subscription:
+  enable : true
+  bg_image : "images/newsletter.jpg"
+  title : "Get News"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Happy Clients"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
