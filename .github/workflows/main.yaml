@@ -32,7 +32,6 @@ jobs:
       run: |
         cd siaconsulting
         hugo -D
-        ls
            
     - name: updload
       uses: bacongobbler/azure-blob-storage-upload@main
