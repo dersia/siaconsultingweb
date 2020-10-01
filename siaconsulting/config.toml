@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "localhost:1313"
+baseurl = ""
 title = "Vex | hugo landing page template"
 theme = "vex"
 # post excert
