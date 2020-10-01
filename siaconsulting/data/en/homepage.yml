@@ -4,7 +4,7 @@ banner:
   title : "WE ARE SIA-CONSULTING."
   description: "we help you craft stunning digital experiences."
   content : "Sia Consulting is your digital expert to support you generating a digital environment on a professional level to simplify your daily business focusing on accessibility, data security and quality management."
-  image : "images/watch.png"
+  image : "images/brain-3717690_1280.png"
   button:
    enable : true
    label : "Get in touch"
@@ -14,13 +14,13 @@ banner:
 features:
   enable : true
   title : "Our Core Services"
-  image : "images/watch-2.png"
+  image : "images/leisystem.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
   - title : "Cloud Migration"
-    icon : "tf-ion-ios-cloud-outline"
+    icon : "tf-ion-ios-cloud-upload-outline"
     content : "developing the right cloud structure for your enterprise and imigrate all your sensitive data into a secure and modern digital environment"
     
     # feature item loop
@@ -43,7 +43,7 @@ features:
 
     # feature item loop
   - title : "Software Architecture "
-    icon : " tf-gears"
+    icon : " tf-ion-social-buffer-outline"
     content : "creating event driven architecture which displays software systems better than ever imagined with the use of modern methods as event sourcing and event storming"
 
     # feature item loop
@@ -55,7 +55,7 @@ features:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/team.jpg"
+  image : "images/pexels-fox-1595385.jpg"
   title : "More than just developers"
   content : "Sia Consulting supports your it department with coachings and workshops to enable everybody with the best knowledge overtaking the new changes Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
 
@@ -66,11 +66,10 @@ about_product:
   title : "About us"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : "images/pexels-polina-zimmerman-3782235.jpg"
       title : "Event driven and up-to-date"
-      content : "sia-consulting is a creative cloud consulting agency. we are composed of creative and experienced cloud developers and consultants. 
-
-We focus on being always up-to-date of current affairs to garantee the best service possible using event driven methods.
+      content : "sia-consulting is a creative cloud consulting agency. we are composed of creative and experienced cloud developers and consultants.
+                We focus on being always up-to-date of current affairs to garantee the best service possible using event driven methods.
 "
       button:
         enable : false
@@ -78,7 +77,7 @@ We focus on being always up-to-date of current affairs to garantee the best serv
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
+    - image : "images/team.jpg"
       title : "New Work made in Germany"
       content : "We always start with requirement govering which is the basis of all our collaborations and focus on your individual needs keeping always the it-security in mind. According to the ‚New Work‘ approach we work remotely, with experts all around the world offering a unique spirit of client focused development.   "
       button:
@@ -90,22 +89,21 @@ We focus on being always up-to-date of current affairs to garantee the best serv
 #################################### Products ########################
 products:
   enable : true
-  title : "Our Technologies"
+  title : "Happy Clients"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
   bg_image : "images/newsletter.jpg"
-  title : "Get News"
+  title : "We'd love to hear from you."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
 
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Happy Clients"
+  title : "Reviews"
   testimonial_item:
     # testimonial item loop
     - name : "Jonathon Andrew"

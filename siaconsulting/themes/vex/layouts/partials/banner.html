@@ -11,8 +11,8 @@
 			</div>
 			<div class="col-md-6 align-self-center text-center text-md-left">
 				<div class="block">
-					<h1 class="font-weight-bold mb-4 font-size-60">{{ .title | markdownify }}</h1>
-					<span class="font-weight-bold mb-4 font-size-40">{{ .description | markdownify }}</span>
+					<h1 class="font-weight-bold font-size-60">{{ .title | markdownify }}</h1>
+					<span class="font-weight-bold mb-4 font-size-60">{{ .description | markdownify }}</span>
 					<p class="mb-4">{{ .content | markdownify }}</p>
 					{{ if .button.enable }}
 					{{ with .button }}
