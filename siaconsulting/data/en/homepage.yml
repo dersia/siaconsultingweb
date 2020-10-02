@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "WE ARE SIA-CONSULTING."
-  description: "we help you craft stunning digital experiences."
+  # description: "we help you craft stunning digital experiences."
   content : "Sia Consulting is your digital expert to support you generating a digital environment on a professional level to simplify your daily business focusing on accessibility, data security and quality management."
   image : "images/brain-3717690_1280.png"
   button:
