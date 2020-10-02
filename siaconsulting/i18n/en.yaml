@@ -4,17 +4,8 @@
 - id: "send"
   translation: "Send Now"
   
-- id: "subscribe"
-  translation: "Get in touch"
-  
 - id: "read_more"
   translation: "Read More"
   
 - id: "subscribe"
-  translation: "Get in touch"
-  
-- id: "subscribe"
-  translation: "Get in touch"
-  
-- id: "subscribe"
-  translation: "Get in touch"
+  translation: "More about DevTalks"

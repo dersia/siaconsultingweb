@@ -95,9 +95,9 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/newsletter.jpg"
-  title : "We'd love to hear from you."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  bg_image : "images/devtalks.jpg"
+  title : "Get to know the people behind"
+  content : "At DevTalks we invite heroes of our community to share our everyday life. Get to know people, projects, challenges and victories."
 
 
 ############################## Testimonial ##########################
