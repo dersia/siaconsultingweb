@@ -89,13 +89,14 @@ products:
   title : "Glückliche Kunden"
 
 
-################################## Subscription ###################
-subscription:
+################################## Banner_Light ###################
+banner_light:
   enable : true
   bg_image : "images/devtalks.jpg"
   title : "Live und in Farbe"
   content : "Bei DevTalks führen wir Interviews mit den Helden*innen der Community. Live und in Farbe laden wir Sie interaktiv in unsere Runde ein, für einen tiefen Einblick in den Alltag unserer Kollegen. Wir stellen Ihnen Menschen und Projekte, Hürden und Herausforderungen, Schwierigkeiten und Siege vor."
   placeholder : "DevTalks"
+  destination: https://devtalks.de
 
 
 ############################## Testimonial ##########################

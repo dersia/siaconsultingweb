@@ -9,3 +9,6 @@
   
 - id: "subscribe"
   translation: "DevTalks"
+
+- id: "banner_light_text"
+  translation: "DevTalks"

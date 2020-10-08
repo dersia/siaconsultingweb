@@ -92,13 +92,14 @@ products:
   title : "Happy Clients"
 
 
-################################## Subscription ###################
-subscription:
+################################## Banner_Light ###################
+banner_light:
   enable : true
   bg_image : "images/devtalks.jpg"
   title : "Get to know the people behind"
   content : "At DevTalks we invite heroes of our community to share our everyday life. Get to know people, projects, challenges and victories."
-
+  placeholder : "DevTalks"
+  destination: https://devtalks.de
 
 ############################## Testimonial ##########################
 testimonial:

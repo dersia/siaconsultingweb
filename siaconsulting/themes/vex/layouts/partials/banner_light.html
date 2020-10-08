@@ -1,0 +1,21 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.homepage.banner_light.enable }}
+{{- with $data.homepage.banner_light }}
+<section class="call-to-action section bg-opacity" style="background-image: url('{{ .bg_image | absURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-8 text-center mx-auto">
+        <h2 class="subheading text-white">{{ .title | markdownify }}</h2>
+        <p class="text-white">{{ .content | markdownify }}</p>
+        <div class="input-group">
+        <div class="w-100">
+          <a class="btn btn-main btn-submit" href="{{ .destination | absURL }}" target="_blank">{{i18n "banner_light_text"}}</a>
+        </div>
+        </div><!-- /input-group -->
+      </div>
+    </div>
+  </div>
+</section><!-- #call-to-action close -->
+{{- end }}
+{{- end }}

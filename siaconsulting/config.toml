@@ -136,10 +136,8 @@ enable = true
 preloader = "" # use .png , .svg or .gif format
 
 # Subscription
-[params.subscription]
-# mailchimp subsciption
-mailchimp_form_action = "https://devtalks.de/" # replace this url with yours
-
+[params.banner_light]
+enable = true
 
 ################################### English language #####################################
 [Languages.en]
