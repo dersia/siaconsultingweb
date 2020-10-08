@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "/"
 title = "Vex | hugo landing page template"
 theme = "vex"
 # post excert
@@ -39,43 +39,82 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 ###################################### Navigation ######################################
 
 # homepage section menu
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Home"
 URL = "/"
 weight = 1
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Services"
 pre = "#"
 URL = "service"
 weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "About us"
 pre = "#"
 URL = "about"
 weight = 3
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 5
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
 weight = 2
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Terms & Conditions"
 URL = "terms-conditions"
 weight = 3
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Privacy Policy"
 URL = "privacy-policy"
 weight = 4
 
+################## DE ####################
+
+# homepage section menu
+[[Languages.de.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Services"
+pre = "#"
+URL = "service"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Über uns"
+pre = "#"
+URL = "about"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Kontakt"
+URL = "contact"
+weight = 5
+
+[[Languages.de.menu.footer]]
+name = "Kontakt"
+URL = "contact"
+weight = 2
+
+[[Languages.de.menu.footer]]
+name = "Impressum"
+URL = "terms-conditions"
+weight = 3
+
+[[Languages.de.menu.footer]]
+name = "Datenschutz"
+URL = "privacy-policy"
+weight = 4
 
 ########################### Default parameters ##########################
 [params]
