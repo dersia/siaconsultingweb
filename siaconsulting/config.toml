@@ -8,6 +8,8 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = [] # desable language from here
+# enable robots.txt
+enableRobotsTXT = true
 
 #################################### Plugins ##########################################
 
