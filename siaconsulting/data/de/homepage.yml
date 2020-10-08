@@ -1,0 +1,122 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "WIR SIND SIA-CONSULTING"
+  content : "Sia Consulting ist Ihr Cloud Experte. Wir unterstützen Sie bei der Erstellung einer digitalen Umgebung auf professioneller Ebene. Wir erarbeiten gemeinsam mit Ihnen anhand von EventStorming und EventModeling Konzepte, um Ihr Tagesgeschäft zu vereinfachen, sicher und zukunftsfähig zu machen."
+  image : "images/watch.png"
+  button:
+   enable : true
+   label : "Wir beraten Sie gerne"
+   link : "contact"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Leistungen"
+  image : "images/watch-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Cloud Migration"
+    icon : "fas fa-cloud-upload-alt"
+    content : "Wir entwickeln die richtige und passende Cloud-Struktur für Ihr Unternehmen und überführen alle sensiblen Daten in eine sichere und moderne, digitale Umgebung."
+    
+    # feature item loop
+  - title : "IT Sicherheit "
+    icon : "fas fa-shield-alt"
+    content : "Anforderungsanalysen helfen bei der Implementierung von aktuellster Software nach DGSVO – und darüber hinaus. Für die Sicherheit Ihres Unternehmens in allen Bereichen."
+    
+    # feature item loop
+  - title : "Workshops"
+    icon : "fas fa-chalkboard-teacher"
+    content : "Sie wollen auf dem aktuellen Stand sein, um auch neueste Sicherheitsstandards in Ihrem Unternehmen anzuwenden? Wir bieten Hands-On Workshops für die wichtigsten Technologien an."
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Software Development"
+    icon : "fas fa-code"
+    content : "Wir entwickeln Cloud Ready und DSGVO konforme Software und beraten Sie bei allen wichtigen Schritten, auch wenn Sie selbst die Entwicklung in der Hand haben möchten."
+
+    # feature item loop
+  - title : "Software Architektur"
+    icon : "fas fa-sitemap"
+    content : "Vom Konzept bis zur Inbetriebnahme – mit der richtigen Software Architektur helfen wir Ihnen dabei, alle Vorzüge und Sicherheitsstandards der Cloud einzusetzen."
+
+    # feature item loop
+  - title : "Coachings"
+    icon : "fas fa-user-friends"
+    content : "Wir begleiten Sie und Ihr Team mit individuellen Coachings und Schulungen bei der Transformation in eine agile Zukunft. Genau dort, wo Ihre Herausforderungen sind."
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/team.jpg"
+  title : "Wir begleiten Sie & Ihr Team"
+  content : "In Zeiten von schnellen, systemrelevanten Entwicklungen und einem herausfordernden Tagesgeschäft fällt es schwer, immer auf dem neuesten Stand zu sein. Dafür sind wir an Ihrer Seite. Wir bieten Schulungen, Coachings und Workshops an. Nicht nur für die wichtigsten Technologien und Sicherheitsstandards, sondern für Ihr ganzes Team. Wir begleiten Sie auf Ihrem Weg in eine agile Zukunft."
+
+
+############################# About Product #######################
+about_product:
+  enable : true
+  title : "Über uns"
+  items:
+    # about product item loop
+    - image : "images/pexels-fox-1595385.jpg"
+      title : "Immer auf dem Laufenden"
+      content : "sia-consulting ist eine kreative Cloud-Beratungsagentur. Wir setzen uns aus erfahrenen Cloud-Entwicklern und Beratern zusammen und konzentrieren uns darauf, immer up-to-date zu sein, um mit event-driven Methoden den bestmöglichen Service für Ihr Unternehmen zu garantieren."
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - image : "images/pexels-negative-space-34578.jpg"
+      title : "New Work – made in Germany"
+      content : "Dank unserer langjährigen Erfahrung mit event-driven Cloud Architektur arbeiten wir erfolgreich und nach dem New Work-Prinzip – zusammen mit Experten auf der ganzen Welt, ortsunabhängig und die Bedürfnisse unserer Kunden immer im Blick. "
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Unsere Kunden ########################
+products:
+  enable : true
+  title : "Glückliche Kunden"
+
+
+################################## Subscription ###################
+subscription:
+  enable : true
+  bg_image : "images/devtalks.jpg"
+  title : "Live und in Farbe"
+  content : "Bei DevTalks führen wir Interviews mit den Helden*innen der Community. Live und in Farbe laden wir Sie interaktiv in unsere Runde ein, für einen tiefen Einblick in den Alltag unserer Kollegen. Wir stellen Ihnen Menschen und Projekte, Hürden und Herausforderungen, Schwierigkeiten und Siege vor."
+  placeholder : "DevTalks"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Kundenstimmen"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
