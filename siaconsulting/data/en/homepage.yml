@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "WE ARE SIA-CONSULTING."
   # description: "we help you craft stunning digital experiences."
-  content : "Sia Consulting is your digital expert to support you generating a digital environment on a professional level to simplify your daily business focusing on accessibility, data security and quality management."
+  content : "Sia Consulting is your digital cloud expert. We support you generating a digital environment on a professional level to simplify your daily business. Together we develop, on basis of event storming and modeling, concepts which focusing on accessibility, data security and quality management."
   image : "images/brain-3717690_1280.png"
   button:
    enable : true
@@ -13,43 +13,43 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Services"
+  title : "Our Services"
   image : "images/leisystem.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
   - title : "Cloud Migration"
-    icon : "tf-ion-ios-cloud-upload-outline"
-    content : "developing the right cloud structure for your enterprise and imigrate all your sensitive data into a secure and modern digital environment"
+    icon : "fas fa-cloud-upload-alt"
+    content : "We develop the right cloud structure for your enterprise and imigrate all your sensitive data into a secure and modern digital environment"
     
     # feature item loop
   - title : "IT Security"
-    icon : "tf-ion-ios-locked-outline"
-    content : "implementing the best it-security for your individual needs including the actual GDPR provision (DSGVO) and any other actual security topics"
+    icon : "fas fa-shield-alt"
+    content : "Implementing the best it-security for your individual needs including the actual GDPR provision and any other actual security topics"
     
     # feature item loop
-  - title : "Workshops"
-    icon : "tf-chat"
-    content : "teaching you and your it team all the knowledge to become an expert in the new generated fields of cloud management and any other software creation "
+  - title : "Workshops & Coachings"
+    icon : "fas fa-chalkboard-teacher"
+    content : "We offer hands-on workshops and indivisual coachings during the transformation process of your business. Your team benefits from implementing our shared knwoledge"
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
   - title : "Software Development "
-    icon : "tf-mobile"
-    content : "creating event driven architecture which displays software systems better than ever imagined with the use of modern methods as event sourcing and event storming "
+    icon : "fas fa-code"
+    content : "We crate cloud ready and GDPR compliant software and consult you during all the upcoming steps, always focusing your indiviual goals."
 
     # feature item loop
   - title : "Software Architecture "
-    icon : " tf-ion-social-buffer-outline"
-    content : "creating event driven architecture which displays software systems better than ever imagined with the use of modern methods as event sourcing and event storming"
+    icon : " fas fa-sitemap"
+    content : "From concept to going live – on basis of suitable software architecture we create your very own cloud structure"
 
     # feature item loop
-  - title : "Coaching"
-    icon : "tf-profile-male"
-    content : "teaching you and your it team all the knowledge to become an expert in the new generated fields of cloud management and any other software creation"
+  - title : "Event storming"
+    icon : "fas fa-user-friends"
+    content : "On basis of event storming and modeling we define all the indiviual needs of your company and make it visible and accessible"
 
 
 ############################# promo ############################
@@ -57,7 +57,7 @@ promo:
   enable : true
   image : "images/pexels-fox-1595385.jpg"
   title : "More than just developers"
-  content : "Sia Consulting supports your it department with coachings and workshops to enable everybody with the best knowledge overtaking the new changes Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
+  content : "Nowadays the digital world develops so rapidely that its increasingly difficult keeping up-to-date continously. Thats why Sia Consulting should be on your side. Besides our development part, we offer workshops and coachings to ensure your whole team being able to understand and interact with the new digital environment. We strive with you into a agile and secure future."
 
 
 ############################# About Product #######################
@@ -67,10 +67,8 @@ about_product:
   items:
     # about product item loop
     - image : "images/pexels-polina-zimmerman-3782235.jpg"
-      title : "Event driven and up-to-date"
-      content : "sia-consulting is a creative cloud consulting agency. we are composed of creative and experienced cloud developers and consultants.
-                We focus on being always up-to-date of current affairs to garantee the best service possible using event driven methods.
-"
+      title : "Always up-to-date"
+      content : "Sia Consulting is a creative cloud transformation agency. We choose all our experts very wisely and take care of being up-to-date and working with the best digital solutions possible. Our developers and consultants share their knowledge with the goal of growing and supporting."
       button:
         enable : false
         label : "Check Features"
@@ -79,7 +77,7 @@ about_product:
     # about product item loop
     - image : "images/team.jpg"
       title : "New Work made in Germany"
-      content : "We always start with requirement govering which is the basis of all our collaborations and focus on your individual needs keeping always the it-security in mind. According to the ‚New Work‘ approach we work remotely, with experts all around the world offering a unique spirit of client focused development.   "
+      content : "Thanks to our well tested expertise in cloud architcture Sia Consulting is based on a worldwide network linking together all its knwoledge in Germany. New work is our passion and our belief – we are proud to share."
       button:
         enable : false
         label : "Check Features"

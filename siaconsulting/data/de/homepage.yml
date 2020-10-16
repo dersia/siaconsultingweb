@@ -6,13 +6,13 @@ banner:
   image : "images/watch.png"
   button:
    enable : true
-   label : "Wir beraten Sie gerne"
+   label : "Kontakt"
    link : "contact"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "Leistungen"
+  title : "Services"
   image : "images/watch-2.png"
 
   # feature at the left of the image
@@ -20,7 +20,7 @@ features:
     # feature item loop
   - title : "Cloud Migration"
     icon : "fas fa-cloud-upload-alt"
-    content : "Wir entwickeln die richtige und passende Cloud-Struktur für Ihr Unternehmen und überführen alle sensiblen Daten in eine sichere und moderne, digitale Umgebung."
+    content : "Wir entwickeln die richtige und passende Cloud-Struktur für Ihr Unternehmen und überführen alle sensiblen Daten in eine sichere, moderne und digitale Umgebung."
     
     # feature item loop
   - title : "IT Sicherheit "
@@ -28,9 +28,9 @@ features:
     content : "Anforderungsanalysen helfen bei der Implementierung von aktuellster Software nach DGSVO – und darüber hinaus. Für die Sicherheit Ihres Unternehmens in allen Bereichen."
     
     # feature item loop
-  - title : "Workshops"
+  - title : "Workshops & Coachings"
     icon : "fas fa-chalkboard-teacher"
-    content : "Sie wollen auf dem aktuellen Stand sein, um auch neueste Sicherheitsstandards in Ihrem Unternehmen anzuwenden? Wir bieten Hands-On Workshops für die wichtigsten Technologien an."
+    content : "Wir begleiten Sie mit Hands-On Workshops und individuellen Coachings bei der Transformation in eine agile Zukunft. Damit Sie immer auf dem neuesten Stand sind."
 
 
   # feature at the right of the image
@@ -46,17 +46,17 @@ features:
     content : "Vom Konzept bis zur Inbetriebnahme – mit der richtigen Software Architektur helfen wir Ihnen dabei, alle Vorzüge und Sicherheitsstandards der Cloud einzusetzen."
 
     # feature item loop
-  - title : "Coachings"
+  - title : "EventStorming"
     icon : "fas fa-user-friends"
-    content : "Wir begleiten Sie und Ihr Team mit individuellen Coachings und Schulungen bei der Transformation in eine agile Zukunft. Genau dort, wo Ihre Herausforderungen sind."
+    content : "Anhand von EventStorming und EventModeling werden die Bedürfnisse ihres Unternehmens visualisiert und ihrem Team zugänglich gemacht. "
 
 
 ############################# promo ############################
 promo:
   enable : true
   image : "images/team.jpg"
-  title : "Wir begleiten Sie & Ihr Team"
-  content : "In Zeiten von schnellen, systemrelevanten Entwicklungen und einem herausfordernden Tagesgeschäft fällt es schwer, immer auf dem neuesten Stand zu sein. Dafür sind wir an Ihrer Seite. Wir bieten Schulungen, Coachings und Workshops an. Nicht nur für die wichtigsten Technologien und Sicherheitsstandards, sondern für Ihr ganzes Team. Wir begleiten Sie auf Ihrem Weg in eine agile Zukunft."
+  title : "Gemeinsam in eine agile Zukunft"
+  content : "In Zeiten von schnellen, systemrelevanten Entwicklungen und einem herausfordernden Tagesgeschäft fällt es oft schwer, immer auf dem neuesten Stand zu sein. Dafür sind wir an Ihrer Seite. Wir bieten Schulungen, Coachings und Workshops an. Nicht nur für die wichtigsten Technologien und Sicherheitsstandards, sondern für Ihr ganzes Team. Wir begleiten Sie auf Ihrem Weg in eine agile Zukunft."
 
 
 ############################# About Product #######################
@@ -67,20 +67,14 @@ about_product:
     # about product item loop
     - image : "images/pexels-fox-1595385.jpg"
       title : "Immer auf dem Laufenden"
-      content : "sia-consulting ist eine kreative Cloud-Beratungsagentur. Wir setzen uns aus erfahrenen Cloud-Entwicklern und Beratern zusammen und konzentrieren uns darauf, immer up-to-date zu sein, um mit event-driven Methoden den bestmöglichen Service für Ihr Unternehmen zu garantieren."
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
+      content : "sia-consulting ist eine kreative Cloud-Transformationsagentur. Wir setzen uns aus erfahrenen Entwicklern und Beratern zusammen und konzentrieren uns darauf, immer up-to-date zu sein, um mit agilen Methoden den bestmöglichen Service für Ihr Unternehmen zu garantieren."
+
         
     # about product item loop
     - image : "images/pexels-negative-space-34578.jpg"
       title : "New Work – made in Germany"
-      content : "Dank unserer langjährigen Erfahrung mit event-driven Cloud Architektur arbeiten wir erfolgreich und nach dem New Work-Prinzip – zusammen mit Experten auf der ganzen Welt, ortsunabhängig und die Bedürfnisse unserer Kunden immer im Blick. "
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
+      content : "Dank unserer langjährigen Erfahrung mit Cloud Architekturen arbeiten wir erfolgreich und nach dem New Work-Prinzip – zusammen mit Experten auf der ganzen Welt, ortsunabhängig und die Bedürfnisse unserer Kunden immer im Blick."
+
 
 
 #################################### Unsere Kunden ########################
